@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/lms.dir/link.d CMakeFiles/lms.dir/main.cpp.o -o lms  /usr/lib/x86_64-linux-gnu/libsqlite3.so /usr/lib/x86_64-linux-gnu/libcrypto.so

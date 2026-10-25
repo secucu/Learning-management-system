@@ -1,0 +1,5 @@
+/home/s-d-phooko/projects/lms-phase4-source/lms-phase4/build/CMakeFiles/lms.dir
+/home/s-d-phooko/projects/lms-phase4-source/lms-phase4/build/CMakeFiles/lms_rules_test.dir
+/home/s-d-phooko/projects/lms-phase4-source/lms-phase4/build/CMakeFiles/test.dir
+/home/s-d-phooko/projects/lms-phase4-source/lms-phase4/build/CMakeFiles/edit_cache.dir
+/home/s-d-phooko/projects/lms-phase4-source/lms-phase4/build/CMakeFiles/rebuild_cache.dir
