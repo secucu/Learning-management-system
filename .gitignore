@@ -1,0 +1,7 @@
+/build/
+*.gcda
+*.gcno
+*.gcov
+*.db-wal
+*.db-shm
+*.db-journal
